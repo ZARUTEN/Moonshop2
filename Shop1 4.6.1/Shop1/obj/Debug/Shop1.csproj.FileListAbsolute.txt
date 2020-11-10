@@ -1,0 +1,112 @@
+D:\VisualS\Work\Shop1\Shop1\bin\Debug\Shop1.exe.config
+D:\VisualS\Work\Shop1\Shop1\bin\Debug\Shop1.exe
+D:\VisualS\Work\Shop1\Shop1\bin\Debug\Shop1.pdb
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.Form1.resources
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.exe
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.pdb
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.Form2.resources
+D:\VisualS\Work\Shop1\Shop1\bin\Debug\Database1.mdf
+D:\VisualS\Work\Shop1\Shop1\bin\Debug\Database1_log.ldf
+D:\VisualS\Work\Shop1\Shop1\obj\Debug\Shop1.Form4.resources
+E:\work\Shop1\Shop1\bin\Debug\Database1.mdf
+E:\work\Shop1\Shop1\bin\Debug\Database1_log.ldf
+E:\work\Shop1\Shop1\bin\Debug\Shop1.exe.config
+E:\work\Shop1\Shop1\bin\Debug\Shop1.exe
+E:\work\Shop1\Shop1\bin\Debug\Shop1.pdb
+E:\work\Shop1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+E:\work\Shop1\Shop1\obj\Debug\Shop1.Form1.resources
+E:\work\Shop1\Shop1\obj\Debug\Shop1.Form2.resources
+E:\work\Shop1\Shop1\obj\Debug\Shop1.Form4.resources
+E:\work\Shop1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+E:\work\Shop1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+E:\work\Shop1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+E:\work\Shop1\Shop1\obj\Debug\Shop1.exe
+E:\work\Shop1\Shop1\obj\Debug\Shop1.pdb
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\bin\Debug\Database1.mdf
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\bin\Debug\Database1_log.ldf
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\bin\Debug\Shop1.exe.config
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\bin\Debug\Shop1.exe
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\bin\Debug\Shop1.pdb
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.Form1.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.Form2.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.Form4.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.exe
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1\Shop1\obj\Debug\Shop1.pdb
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\bin\Debug\Database1.mdf
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\bin\Debug\Database1_log.ldf
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe.config
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\bin\Debug\Shop1.pdb
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form1.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form2.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form4.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.exe
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\work\Shop1 4.6.1\Shop1\obj\Debug\Shop1.pdb
+E:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1.mdf
+E:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1_log.ldf
+E:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe.config
+E:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe
+E:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.pdb
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form1.resources
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form2.resources
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.exe
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.pdb
+F:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1.mdf
+F:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1_log.ldf
+F:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe.config
+F:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe
+F:\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.pdb
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form1.resources
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form2.resources
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.exe
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.pdb
+F:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form3.resources
+E:\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form3.resources
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1.mdf
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1_log.ldf
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe.config
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.pdb
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form1.resources
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form2.resources
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form3.resources
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.exe
+F:\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.pdb
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1.mdf
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Database1_log.ldf
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe.config
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.exe
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\bin\Debug\Shop1.pdb
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csprojAssemblyReference.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form1.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form2.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Form3.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.Properties.Resources.resources
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.GenerateResource.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.csproj.CoreCompileInputs.cache
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.exe
+Y:\Student\18ИП3\МДК02.02\Магазин одежды\MBendWork\work3110\Shop1 4.6.1\Shop1\obj\Debug\Shop1.pdb
